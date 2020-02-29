@@ -1,4 +1,4 @@
 Tang Chun Yi
 20619766
 
-![Screenshot](Screenshot.JPG)
+![Screensshot](Screenshot.JPG)
